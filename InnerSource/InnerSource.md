@@ -1,6 +1,6 @@
 # InnerSource Lab
 Open Source / Inner Source / GitHub e sviluppo collaborativo, distribuito, etico e future proof  
-workshop di 12h di Stefano Cecere per TheSign.Academy
+Stefano Cecere, dicembre 2018
 
 ## Obiettivi
 sviluppare una CULTURA DELLA COLLABORAZIONE
