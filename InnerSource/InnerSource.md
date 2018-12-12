@@ -85,7 +85,7 @@ open source projects require open collaboration, open communication, and a prope
 - Optimize collaboration
 - Inner-sourcing is a cultural mind-shift
 
-### principi
+### Principi
 - Culture
 - Communication
 - Transparency
@@ -93,7 +93,7 @@ open source projects require open collaboration, open communication, and a prope
 - Community
 - Meritocracy
 
-### Why InnerSource?
+### Perché InnerSource
 - develop more efficiently
   - code reuse
   - develop cleaner code
@@ -157,7 +157,7 @@ Integrazione progetto Unity -> GitHub -> Unity Cloud Build -> Discord -> Issues 
 
 TBD
 
-### esempi
+### Esempi
 - Unity projects
   - https://unitylist.com
   - https://github.com/QianMo/Unity-Design-Pattern
