@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/*.meta": true,
+        "**/Library": true
+    },
+    "spellright.language": [
+        "en",
+        "it"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}
