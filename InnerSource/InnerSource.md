@@ -131,6 +131,9 @@ open source projects require open collaboration, open communication, and a prope
 
 caldamente consigliate sono le lezioni di GitHub stessa: <https://lab.github.com/courses>
 
+e questa guida completa a GitHub Desktop
+<https://programminghistorian.org/en/lessons/getting-started-with-github-desktop>
+
 ### Markdown
 in contrapposizione al markup dell'html, è stato creato il markdown dove la base è testo semplice con pochissime convenzioni che permettono al contenuto di essere convertito nei formati più utili (html, doc, pdf, ePub) garantendo un versioning perfetto e una preservazione e portabilità ottimali
 
